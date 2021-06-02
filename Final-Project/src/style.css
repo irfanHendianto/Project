@@ -1,0 +1,25 @@
+.contentStyle {
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    background: #364d79;
+    background-image:  url('./pngtree-colorful-film-shooting-poster-background-material-image_130221.jpg'); 
+  };
+
+  .contentStyle {
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    text-align: center;
+    background: #364d79;
+    background-image:  url('./pngtree-colorful-film-shooting-poster-background-material-image_130221.jpg'); 
+  };
+
+  #components-layout-demo-top-side .logo {
+    color: red;
+    width: 100%;
+    border: 2px solid;
+  }
+  
+  
